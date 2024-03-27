@@ -1,0 +1,14 @@
+D:\Training\TicTacToe\bin\Debug\net8.0\TicTacToe.exe
+D:\Training\TicTacToe\bin\Debug\net8.0\TicTacToe.deps.json
+D:\Training\TicTacToe\bin\Debug\net8.0\TicTacToe.runtimeconfig.json
+D:\Training\TicTacToe\bin\Debug\net8.0\TicTacToe.dll
+D:\Training\TicTacToe\bin\Debug\net8.0\TicTacToe.pdb
+D:\Training\TicTacToe\obj\Debug\net8.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfoInputs.cache
+D:\Training\TicTacToe\obj\Debug\net8.0\TicTacToe.AssemblyInfo.cs
+D:\Training\TicTacToe\obj\Debug\net8.0\TicTacToe.csproj.CoreCompileInputs.cache
+D:\Training\TicTacToe\obj\Debug\net8.0\TicTacToe.dll
+D:\Training\TicTacToe\obj\Debug\net8.0\refint\TicTacToe.dll
+D:\Training\TicTacToe\obj\Debug\net8.0\TicTacToe.pdb
+D:\Training\TicTacToe\obj\Debug\net8.0\TicTacToe.genruntimeconfig.cache
+D:\Training\TicTacToe\obj\Debug\net8.0\ref\TicTacToe.dll
